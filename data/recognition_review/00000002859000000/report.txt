@@ -1,0 +1,11 @@
+track 1: NOT RECOGNIZED — face never detected (114 looks)
+track 5: IDENTIFIED as 09 (CONFIRMED, conf=0.83)
+track 6: NOT RECOGNIZED — best sim 0.31 -> 06 (threshold 0.38)
+track 9: IDENTIFIED as 05 (CANDIDATE, conf=0.84)
+track 12: IDENTIFIED as 05 (CANDIDATE, conf=0.81)
+track 13: IDENTIFIED as 04 (LOCKED, conf=1.00)
+track 17: NOT RECOGNIZED — rejected: extreme yaw x72
+track 19: NOT RECOGNIZED — rejected: bad exposure x5, extreme yaw x3
+track 22: NOT RECOGNIZED — best sim 0.36 -> 05 (threshold 0.38)
+track 24: IDENTIFIED as 04 (CANDIDATE, conf=0.80)
+track 26: IDENTIFIED as 05 (CANDIDATE, conf=0.80)

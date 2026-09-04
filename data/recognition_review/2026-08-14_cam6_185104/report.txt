@@ -1,0 +1,3 @@
+track 1: NOT RECOGNIZED — best sim 0.25 -> 17 (threshold 0.45)
+track 2: NOT RECOGNIZED — face never detected (5 looks)
+track 3: NOT RECOGNIZED — face never detected (7 looks)

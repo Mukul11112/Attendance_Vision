@@ -1,0 +1,26 @@
+track 1: NOT RECOGNIZED — best sim 0.18 -> 03 (threshold 0.38)
+track 2: NOT RECOGNIZED — best sim 0.29 -> 04 (threshold 0.38)
+track 4: NOT RECOGNIZED — face never detected (2 looks)
+track 5: NOT RECOGNIZED — best sim 0.26 -> 03 (threshold 0.38)
+track 6: NOT RECOGNIZED — best sim 0.24 -> 04 (threshold 0.38)
+track 7: NOT RECOGNIZED — best sim 0.29 -> 03 (threshold 0.38)
+track 8: NOT RECOGNIZED — best sim 0.19 -> 03 (threshold 0.38)
+track 10: NOT RECOGNIZED — rejected: extreme yaw x2
+track 11: NOT RECOGNIZED — best sim 0.26 -> 04 (threshold 0.38)
+track 12: NOT RECOGNIZED — rejected: extreme yaw x1
+track 13: NOT RECOGNIZED — best sim 0.27 -> 03 (threshold 0.38)
+track 14: NOT RECOGNIZED — face never detected (1 looks)
+track 15: NOT RECOGNIZED — best sim 0.31 -> 03 (threshold 0.38)
+track 16: NOT RECOGNIZED — rejected: extreme yaw x1
+track 17: NOT RECOGNIZED — best sim 0.28 -> 03 (threshold 0.38)
+track 18: NOT RECOGNIZED — best sim 0.28 -> 04 (threshold 0.38)
+track 19: NOT RECOGNIZED — best sim 0.25 -> 03 (threshold 0.38)
+track 20: NOT RECOGNIZED — best sim 0.29 -> 03 (threshold 0.38)
+track 21: NOT RECOGNIZED — rejected: extreme yaw x3
+track 22: NOT RECOGNIZED — best sim 0.33 -> 03 (threshold 0.38)
+track 23: NOT RECOGNIZED — best sim 0.23 -> 03 (threshold 0.38)
+track 24: NOT RECOGNIZED — best sim 0.21 -> 03 (threshold 0.38)
+track 25: NOT RECOGNIZED — best sim 0.17 -> 03 (threshold 0.38)
+track 29: NOT RECOGNIZED — best sim 0.27 -> 03 (threshold 0.38)
+track 32: NOT RECOGNIZED — best sim 0.21 -> 03 (threshold 0.38)
+track 33: NOT RECOGNIZED — face never detected (10 looks)

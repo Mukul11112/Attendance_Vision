@@ -1,0 +1,11 @@
+track 1: NOT RECOGNIZED — best sim 0.25 -> 03 (threshold 0.38)
+track 2: NOT RECOGNIZED — best sim 0.22 -> 04 (threshold 0.38)
+track 3: NOT RECOGNIZED — face never detected (9 looks)
+track 4: NOT RECOGNIZED — face never detected (5 looks)
+track 5: NOT RECOGNIZED — rejected: extreme yaw x3
+track 6: NOT RECOGNIZED — best sim 0.29 -> 04 (threshold 0.38)
+track 7: NOT RECOGNIZED — best sim 0.19 -> 01 (threshold 0.38)
+track 8: NOT RECOGNIZED — best sim 0.19 -> 01 (threshold 0.38)
+track 9: NOT RECOGNIZED — rejected: extreme yaw x1
+track 11: NOT RECOGNIZED — best sim 0.14 -> 04 (threshold 0.38)
+track 12: NOT RECOGNIZED — face never detected (5 looks)

@@ -1,0 +1,6 @@
+track 2: NOT RECOGNIZED — best sim 0.33 -> 10 (threshold 0.38)
+track 3: NOT RECOGNIZED — best sim 0.17 -> 03 (threshold 0.38)
+track 7: NOT RECOGNIZED — best sim 0.30 -> 12 (threshold 0.38)
+track 9: IDENTIFIED as 05 (CANDIDATE, conf=0.61)
+track 10: IDENTIFIED as 03 (CANDIDATE, conf=0.87)
+track 20: NOT RECOGNIZED — best sim 0.22 -> 09 (threshold 0.38)

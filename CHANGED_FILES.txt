@@ -1,0 +1,5 @@
+Phase 3f HOTFIX changed files:
+  models/person_detector_yolo.py (decode orientation rule; logit guard)
+  config/settings.py (5 settings restored)
+  tests/test_core_logic.py
+NOTE: 3e's decode broke real-video detection for BOTH models. This fixes it.

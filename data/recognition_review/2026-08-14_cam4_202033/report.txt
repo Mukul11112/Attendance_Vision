@@ -1,0 +1,6 @@
+track 1: IDENTIFIED as 01 (LOCKED, conf=0.94)
+track 3: IDENTIFIED as 01 (REVIEW_REQUIRED, conf=0.77)
+track 6: IDENTIFIED as 28 (CANDIDATE, conf=0.74)
+track 7: IDENTIFIED as 01 (REVIEW_REQUIRED, conf=0.72)
+track 9: IDENTIFIED as 28 (CANDIDATE, conf=0.48)
+track 10: NOT RECOGNIZED — best sim 0.43 -> 28 (threshold 0.45)

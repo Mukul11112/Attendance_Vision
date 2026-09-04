@@ -1,0 +1,10 @@
+track 2: IDENTIFIED as 28 (CANDIDATE, conf=0.57)
+track 3: NOT RECOGNIZED — face never detected (120 looks)
+track 4: IDENTIFIED as 14 (UNKNOWN, conf=0.40)
+track 5: NOT RECOGNIZED — face never detected (67 looks)
+track 6: NOT RECOGNIZED — best sim 0.43 -> 29 (threshold 0.45)
+track 8: NOT RECOGNIZED — rejected: low combined quality x1
+track 10: NOT RECOGNIZED — face never detected (72 looks)
+track 12: NOT RECOGNIZED — face never detected (79 looks)
+track 13: NOT RECOGNIZED — face never detected (79 looks)
+track 14: IDENTIFIED as 03 (UNKNOWN, conf=0.45)

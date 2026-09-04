@@ -1,0 +1,24 @@
+# Office Video Attendance System — CPU-only (Windows, i5-1335U)
+# Python 3.10 - 3.12 recommended.
+numpy>=1.26,<3
+opencv-python>=4.8          # includes FaceDetectorYN (YuNet)
+# NVIDIA GPU inference on Windows (CUDA + cuDNN DLLs come from pip wheels);
+# falls back to CPU automatically on machines without an NVIDIA GPU.
+# NOTE: do NOT install plain `onnxruntime` alongside — the packages conflict.
+onnxruntime-gpu[cuda,cudnn]>=1.26 ; platform_system == "Windows"
+onnxruntime>=1.16 ; platform_system != "Windows"   # CPU provider elsewhere
+scipy>=1.10                 # Hungarian assignment in the tracker
+openpyxl>=3.1               # Excel export
+Pillow>=10.0                # GUI preview frames
+pytest>=7.0                 # tests (optional; tests/run_tests.py works without)
+
+# ── Person detection: YOLOv8m / YOLOv8m-pose export to ONNX ──────────────────
+ultralytics>=8.0            # exports yolov8m(.onnx) / yolov8m-pose(.onnx)
+
+# ── Body ReID (OSNet) — face-primary, body-fallback when face not visible ────
+#   torchreid builds/exports osnet_x0_25.onnx; the others are its export deps.
+torch>=2.0                  # OSNet backbone (already required by ultralytics)
+torchreid>=0.2.5            # OSNet x0_25 model + ImageNet pretrained weights
+gdown>=6.0                  # torchreid weight download
+tensorboard>=2.16           # torchreid import dependency
+onnxscript>=0.7             # torch.onnx export backend (PyTorch >= 2.9)

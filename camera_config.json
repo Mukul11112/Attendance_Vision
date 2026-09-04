@@ -1,0 +1,8 @@
+{
+  "ip": "10.10.30.240",
+  "port": 554,
+  "username": "admin",
+  "password": "Ripik@43221",
+  "channel": "101",
+  "_comment": "channel 101 = main stream (full HD), 102 = sub stream (lighter, less lag). Credentials are URL-encoded automatically."
+}

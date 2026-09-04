@@ -1,0 +1,4 @@
+track 2: IDENTIFIED as 05 (CANDIDATE, conf=0.68)
+track 3: NOT RECOGNIZED — face never detected (1 looks)
+track 8: NOT RECOGNIZED — rejected: extreme yaw x1
+track 9: IDENTIFIED as 05 (CANDIDATE, conf=0.72)

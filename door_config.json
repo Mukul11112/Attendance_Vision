@@ -1,0 +1,13 @@
+{
+  "camera": 5,
+  "line_points": [
+    0.15,
+    0.591,
+    0.366,
+    0.372
+  ],
+  "line_fraction": null,
+  "out_direction": "down",
+  "enabled": true,
+  "min_body_similarity": 0.62
+}
